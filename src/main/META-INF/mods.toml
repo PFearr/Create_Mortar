@@ -4,10 +4,11 @@ license="None"
 
 [[mods]]
 modId="create_mortar"
-version="0.1.0"
+version="0.1.2"
 displayname="Create: Compatible"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"
+logoFile = "icon.png"
 
 [[dependencies.create_mortar]]
 modId="minecraft"
