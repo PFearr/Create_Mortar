@@ -1,0 +1,7 @@
+{
+  "fluids": [
+    "createaddition:flowing_seed_oil",
+    "createaddition:seed_oil"
+  ],
+  "fuel_ticks": 48
+}
