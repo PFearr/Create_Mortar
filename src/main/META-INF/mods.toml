@@ -1,0 +1,24 @@
+modLoader="lowcodefml"
+loaderVersion="[46,]"
+license="None"
+
+[[mods]]
+modId="create_mortar"
+version="0.1.0"
+displayname="Create: Compatible"
+description="Recipe changes and create add on compat"
+dependencies="AFTER:*"
+
+[[dependencies.create_mortar]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.create_mortar]]
+modId="create"
+mandatory=true
+versionRange="[0.5.1.f,)"
+ordering="AFTER"
+side="BOTH"
