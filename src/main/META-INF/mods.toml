@@ -8,7 +8,7 @@ version="0.1.3"
 displayname="Create: Compatible"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"
-logoFile = "icon.png"
+logoFile = "Mortar.png"
 
 [[dependencies.create_mortar]]
 modId="minecraft"
