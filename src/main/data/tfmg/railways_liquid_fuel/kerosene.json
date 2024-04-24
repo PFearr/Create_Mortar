@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "tfmg:kerosene"
+    "createindustry:kerosene"
   ],
   "fuel_ticks": 2400
 }

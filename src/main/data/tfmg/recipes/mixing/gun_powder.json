@@ -3,13 +3,13 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "tfmg:nitrate_dust"
+      "item": "createindustry:nitrate_dust"
     },
     {
-      "item": "tfmg:nitrate_dust"
+      "item": "createindustry:nitrate_dust"
     },
     {
-      "item": "tfmg:nitrate_dust"
+      "item": "createindustry:nitrate_dust"
     },
     {
       "item": "minecraft:charcoal"

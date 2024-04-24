@@ -1,5 +1,5 @@
 {
-  "type": "tfmg:casting",
+  "type": "createindustry:casting",
   "ingredients": [
     {
       "fluidTag": "forge:molten_cast_iron",
@@ -10,12 +10,12 @@
   "results": [
     {
       "count": 1,
-      "item": "tfmg:cast_iron_ingot"
+      "item": "createindustry:cast_iron_ingot"
     }
   ,
     {
       "count": 1,
-      "item": "tfmg:cast_iron_block"
+      "item": "createindustry:cast_iron_block"
     }
 
   ]

@@ -1,5 +1,5 @@
 {
-  "type": "tfmg:advanced_distillation",
+  "type": "createindustry:advanced_distillation",
   "ingredients": [
 
     {
@@ -10,23 +10,23 @@
   ],
   "results": [
     {
-      "fluid": "tfmg:heavy_oil",
+      "fluid": "createindustry:heavy_oil",
       "amount": 40
     },
     {
-      "fluid": "tfmg:diesel",
+      "fluid": "createindustry:diesel",
       "amount": 30
     },
     {
-      "fluid": "tfmg:kerosene",
+      "fluid": "createindustry:kerosene",
       "amount": 20
     },
     {
-      "fluid": "tfmg:gasoline",
+      "fluid": "createindustry:gasoline",
       "amount": 40
     },
     {
-      "fluid": "tfmg:lpg",
+      "fluid": "createindustry:lpg",
       "amount": 30
     }
   ]

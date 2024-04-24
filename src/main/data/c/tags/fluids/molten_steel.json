@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "tfmg:molten_steel",
+    "createindustry:molten_steel",
     "createbigcannons:flowing_molten_steel",
     "createbigcannons:molten_steel"
   ]

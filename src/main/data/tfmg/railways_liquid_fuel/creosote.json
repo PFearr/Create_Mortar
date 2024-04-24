@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "tfmg:creosote"
+    "createindustry:creosote"
   ],
   "fuel_ticks": 600
 }

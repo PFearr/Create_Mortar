@@ -1,5 +1,5 @@
 {
-  "type": "tfmg:casting",
+  "type": "createindustry:casting",
   "ingredients": [
     {
       "fluidTag": "forge:molten_bronze",

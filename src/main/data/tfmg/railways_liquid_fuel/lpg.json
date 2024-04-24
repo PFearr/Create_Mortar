@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "tfmg:lpg"
+    "createindustry:lpg"
   ],
   "fuel_ticks": 4800
 }
