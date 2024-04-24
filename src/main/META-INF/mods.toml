@@ -4,7 +4,7 @@ license="None"
 
 [[mods]]
 modId="create_mortar"
-version="0.1.3"
+version="0.1.6"
 displayname="Create: Compatible"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"
@@ -21,5 +21,27 @@ side="BOTH"
 modId="create"
 mandatory=true
 versionRange="[0.5.1.f,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.create_mortar]]
+modId="tfmg"
+mandatory= false
+versionRange="[0.8.0b,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.create_mortar]]
+modId="railways"
+mandatory= false
+versionRange="[1.6.1+forge-mc1.20.1,)"
+ordering="AFTER"
+side="BOTH"
+
+
+[[dependencies.create_mortar]]
+modId="createbigcannons"
+mandatory= false
+versionRange="[0.5.3.b,)"
 ordering="AFTER"
 side="BOTH"

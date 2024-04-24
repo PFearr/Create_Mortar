@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [    
+ {
+      "id": "create_dd:bronze_block",
+      "required": false
+    }
+      
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "tfmg:casting",
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_bronze",
+      "amount": 1
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "count": 1,
+      "item": "create_dd:bronze_ingot"
+    }
+  ,
+    {
+      "count": 1,
+      "item": "create_dd:bronze_block"
+    }
+
+  ]
+}
