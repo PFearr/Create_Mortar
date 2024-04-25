@@ -1,7 +1,14 @@
 {
   "replace": false,
   "values": [
-    "createdeco:industrial_iron_block",
-    "create_dd:industrial_iron_block"
+    {
+    "id":  "createdeco:industrial_iron_block",
+    "required": false
+    }, 
+    {
+    "id":  "create_dd:industrial_iron_block",
+    "required": false
+    } 
+    
   ]
 }

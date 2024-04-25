@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-     "tfmg:steel_ingot"
+    {
+      "id":  "tfmg:steel_ingot",
+      "required": false
+    }
   ]
 }
