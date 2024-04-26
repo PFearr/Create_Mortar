@@ -1,0 +1,14 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "regions_unexplored:redwood_log"
+    }
+  ],
+  "results": [
+    {
+      "amount": 25,
+      "fluid": "create_dd:sap"
+    }
+  ]
+}

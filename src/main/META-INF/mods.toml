@@ -4,7 +4,7 @@ license="None"
 
 [[mods]]
 modId="create_mortar"
-version="0.1.7"
+version="0.1.7c"
 displayname="Create: Mortar"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"
@@ -25,7 +25,7 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.create_mortar]]
-modId="tfmg"
+modId="createindustry"
 mandatory= false
 versionRange="[0.8.0b,)"
 ordering="AFTER"
