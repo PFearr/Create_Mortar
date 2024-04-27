@@ -4,8 +4,8 @@ license="None"
 
 [[mods]]
 modId="create_mortar"
-version="0.1.6"
-displayname="Create: Compatible"
+version="0.1.8"
+displayname="Create: Mortar"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"
 logoFile = "Mortar.png"

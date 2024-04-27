@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-	"tfmg:diesel"
-  	    ]
+  {
+      "id":  "tfmg:diesel",
+      "required": false
+  }
+ ]
 }

@@ -4,7 +4,6 @@
  {
       "id": "create_dd:bronze_block",
       "required": false
-    }
-      
+    }  
   ]
 }

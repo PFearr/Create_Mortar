@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-	"tfmg:creosote"
+    {
+      "id":  "tfmg:creosote",
+      "required": false
+    }
+	
   	    ]
 }
