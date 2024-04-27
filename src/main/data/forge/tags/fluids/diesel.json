@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-	"createindustry:diesel"
-  	    ]
+  {
+      "id":  "createindustry:diesel",
+      "required": false
+  }
+ ]
 }

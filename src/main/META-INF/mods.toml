@@ -1,10 +1,10 @@
 modLoader="lowcodefml"
-loaderVersion="[42,]"
+loaderVersion="[43,]"
 license="None"
 
 [[mods]]
 modId="create_mortar"
-version="0.1.7c"
+version="0.1.8"
 displayname="Create: Mortar"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"
@@ -25,7 +25,7 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.create_mortar]]
-modId="createindustry"
+modId="tfmg"
 mandatory= false
 versionRange="[0.8.0b,)"
 ordering="AFTER"

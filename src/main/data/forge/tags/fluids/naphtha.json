@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-        "createindustry:naphtha"
-              ]
+      {
+            "id":  "createindustry:naphtha",
+            "required": false
+      }
+ ]
 }

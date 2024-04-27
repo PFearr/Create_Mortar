@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-"createindustry:crude_oil_fluid"
+    {
+      "id":  "createindustry:crude_oil_fluid",
+      "required": false
+    }
   ]
 }

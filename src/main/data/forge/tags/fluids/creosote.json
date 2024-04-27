@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-	"createindustry:creosote"
+    {
+      "id":  "createindustry:creosote",
+      "required": false
+    }
+	
   	    ]
 }

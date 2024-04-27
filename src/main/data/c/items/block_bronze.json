@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-      "create_dd:bronze_block",
+   {
+      "id":  "create_dd:bronze_block",
+      "required": false
+   }
   ]
 }

@@ -1,9 +1,17 @@
 {
   "replace": false,
   "values": [
-    "createindustry:molten_steel",
-    "createbigcannons:molten_steel",
-    "createbigcannons:flowing_molten_steel"
-
+    {
+      "id":  "createindustry:molten_steel",
+      "required": false
+    },
+    {
+      "id":  "createbigcannons:molten_steel",
+        "required": false
+    },
+    {
+        "id":  "createbigcannons:flowing_molten_steel",
+        "required": false
+    }
   ]
 }

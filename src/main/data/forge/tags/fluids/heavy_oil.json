@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-        "createindustry:heavy_oil"
-              ]
+  {
+       "id":  "createindustry:heavy_oil",
+       "required": false
+  } 
+ ]
 }

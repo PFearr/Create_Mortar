@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-        "createindustry:liquid_plastic"
-              ]
+      {
+            "id":  "createindustry:liquid_plastic",
+            "required": false
+      }
+ ]
 }

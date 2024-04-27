@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-        "createindustry:molten_slag"
-              ]
+      {
+            "id":  "createindustry:molten_slag",
+            "required": false
+      }
+ ]
 }

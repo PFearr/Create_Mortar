@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-        "createindustry:lpg"
-              ]
+      {
+            "id":  "createindustry:lpg",
+            "required": false
+      }
+  ]
 }
