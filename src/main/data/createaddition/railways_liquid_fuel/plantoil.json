@@ -1,6 +1,6 @@
 {
   "fluids": [
-	  "#forge:seed_oil"
+	  "#forge:plant_oil"
   ],
-  "fuel_ticks": 480
+  "fuel_ticks": 240
 }

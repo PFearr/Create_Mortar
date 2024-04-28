@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "#forge:bioethanol"
+    "#forge:biofuel"
   ],
   "fuel_ticks": 2400
 }
