@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "createindustry:creosote"
+"#forge:creosote"
   ],
   "fuel_ticks": 600
 }

@@ -1,7 +1,6 @@
 {
   "fluids": [
-    "createaddition:flowing_seed_oil",
-    "createaddition:seed_oil"
+	  "#forge:seed_oil"
   ],
   "fuel_ticks": 480
 }

@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "createindustry:kerosene"
+      "#forge:naphtha"
   ],
   "fuel_ticks": 2400
 }

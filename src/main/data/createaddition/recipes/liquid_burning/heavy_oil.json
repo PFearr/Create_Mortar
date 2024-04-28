@@ -1,7 +1,7 @@
 {
     "type":"createaddition:liquid_burning",
     "input": {
-          "fluid": "createindustry:heavy_oil",
+          "fluidTag": "forge:heavy_oil",
 
           "amount": 1000
     },

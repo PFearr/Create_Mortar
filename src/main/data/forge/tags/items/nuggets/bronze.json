@@ -1,8 +1,7 @@
 {
   "replace": false,
   "values": [
-  	
-         {
+    {
       "id":  "create_dd:bronze_nugget",
       "required": false
     }

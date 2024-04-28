@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "createindustry:crude_oil_fluid"
+     "#forge:crude_oil"
   ],
   "fuel_ticks": 1200
 }

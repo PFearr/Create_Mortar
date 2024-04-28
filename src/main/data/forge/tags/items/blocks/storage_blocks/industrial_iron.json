@@ -1,13 +1,13 @@
 {
   "replace": false,
-  "values": [             
-  	{
+  "values": [
+    {
       "id":  "createindustry:cast_iron_block",
       "required": false
-    },              
+    },
     {
       "id":  "createbigcannons:cast_iron_block",
       "required": false
-    }               
+    }    
   ]
 }

@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "createindustry:gasoline"
+      "#forge:lpg"
   ],
   "fuel_ticks": 4800
 }

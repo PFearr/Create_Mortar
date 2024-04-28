@@ -1,7 +1,7 @@
 {
     "type":"createaddition:liquid_burning",
     "input": {
-          "fluid": "createindustry:kerosene",
+          "fluidTag": "forge:kerosene",
 
           "amount": 1000
     },

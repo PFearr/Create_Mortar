@@ -1,8 +1,8 @@
 {
   "values": [
-  	{
+    {
       "id":  "createindustry:sulfur_dust",
       "required": false
-    }   
+    }
   ]
 }

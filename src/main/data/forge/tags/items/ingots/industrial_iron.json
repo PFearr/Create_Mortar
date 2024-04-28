@@ -1,13 +1,13 @@
 {
   "replace": false,
-  "values": [   
-  	{
-      "id": "createindustry:cast_iron_ingot",
+  "values": [
+    {
+      "id":  "createindustry:cast_iron_ingot",
       "required": false
     },
     {
-      "id": "createbigcannons:cast_iron_ingot",
+      "id":  "createbigcannons:cast_iron_ingot",
       "required": false
-    }    
+    } 
   ]
 }
