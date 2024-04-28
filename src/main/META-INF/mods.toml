@@ -4,7 +4,7 @@ license="None"
 
 [[mods]]
 modId="create_mortar"
-version="0.1.8"
+version="0.1.9"
 displayname="Create: Mortar"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"
@@ -43,5 +43,26 @@ side="BOTH"
 modId="createbigcannons"
 mandatory= false
 versionRange="[0.5.3.b,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.create_mortar]]
+modId="create_dd"
+mandatory= false
+versionRange="[0.2c,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.create_mortar]]
+modId="design_decor"
+mandatory= false
+versionRange="[0.4.0,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.create_mortar]]
+modId="createadditions"
+mandatory= false
+versionRange="[1.2.0,)"
 ordering="AFTER"
 side="BOTH"

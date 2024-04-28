@@ -2,7 +2,7 @@
   "type": "create:emptying",
   "ingredients": [
     {
-      "item": "createindustry:gasoline_bucket"
+      "item": "createindustry:kerosene_bucket"
     }
   ],
   "results": [
@@ -11,7 +11,7 @@
     },
     {
       "amount": 1000,
-      "fluid": "createindustry:gasoline"
+      "fluid": "createindustry:kerosene"
     }
   ]
 }
