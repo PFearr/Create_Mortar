@@ -1,5 +1,10 @@
 {
     "type":"createaddition:liquid_burning",
+    "conditions":[
+        {"type":"forge:mod_loaded",
+         "modid":"tfmg"
+        }
+    ],
     "input": {
           "fluidTag": "forge:lpg",
 
