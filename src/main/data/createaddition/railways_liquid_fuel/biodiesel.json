@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "createaddition:biodiesel"
+   "#forgen:biodiesel"
   ],
   "fuel_ticks": 2400
 }

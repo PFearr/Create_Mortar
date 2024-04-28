@@ -1,7 +1,6 @@
 {
   "fluids": [
-    "createaddition:flowing_bioethanol",
-    "createaddition:bioethanol"
+    "#forge:bioethanol"
   ],
   "fuel_ticks": 2400
 }

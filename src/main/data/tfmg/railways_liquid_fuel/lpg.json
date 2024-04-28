@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "tfmg:lpg"
+      "#forge:lpg"
   ],
   "fuel_ticks": 4800
 }

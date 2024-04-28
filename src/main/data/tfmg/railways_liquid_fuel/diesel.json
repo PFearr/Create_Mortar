@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "tfmg:diesel"
+	"#forge:diesel"
   ],
   "fuel_ticks": 4800
 }

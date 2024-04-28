@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "tfmg:creosote"
+"#forge:creosote"
   ],
   "fuel_ticks": 600
 }

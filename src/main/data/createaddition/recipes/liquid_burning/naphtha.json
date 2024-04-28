@@ -1,7 +1,7 @@
 {
     "type":"createaddition:liquid_burning",
     "input": {
-          "fluid": "tfmg:naphtha",
+          "fluidTag": "forge:naphtha",
 
           "amount": 1000
     },

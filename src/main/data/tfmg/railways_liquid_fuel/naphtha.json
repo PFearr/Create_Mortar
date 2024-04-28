@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "tfmg:naphtha"
+      "#forge:naphtha"
   ],
   "fuel_ticks": 2400
 }
