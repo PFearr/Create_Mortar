@@ -1,7 +1,21 @@
-{
-
-        "conditions": [{
-            "type":"forge:mod_loaded",
-            "modid": "tfmg"
-}]
-  }
+[
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "tfmg"
+        }
+      ],
+      "recipe": {}
+    },
+    {
+      "conditions": [
+        {
+          "type": "forge:mod_loaded",
+          "modid": "create_dd"
+        }
+      ],
+      "recipe": {}
+    }
+  ]
+  

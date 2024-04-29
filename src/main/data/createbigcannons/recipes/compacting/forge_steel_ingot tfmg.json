@@ -1,0 +1,27 @@
+{
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "tfmg"
+  }],
+    "type": "tfmg:casting",
+    "ingredients": [
+      {
+        "fluidTag": "forge:molten_steel",
+        "amount": 1
+      }
+    ],
+    "processingTime": 300,
+    "results": [
+      {
+        "count": 1,
+        "item": "tfmg:steel_ingot"
+      }
+    ,
+      {
+        "count": 1,
+        "item": "tfmg:steel_block"
+      }
+  
+    ]
+  }
+  
