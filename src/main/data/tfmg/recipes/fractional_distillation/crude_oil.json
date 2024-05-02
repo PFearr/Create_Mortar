@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "modid": "tfmg",
+      "type": "forge:mod_loaded"
+    }
+  ],
   "type": "tfmg:advanced_distillation",
   "ingredients": [
 

@@ -1,9 +1,15 @@
 {
 
-  "conditions": [{
+  "conditions": [
+    {
       "type":"forge:mod_loaded",
-      "modid": "create_dd"
-}],
+      "modid":"create_dd"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"tfmg"
+    }
+],
 
   "type": "tfmg:casting",
   "ingredients": [

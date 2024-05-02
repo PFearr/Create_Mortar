@@ -61,7 +61,7 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.create_mortar]]
-modId="createadditions"
+modId="createaddition"
 mandatory= false
 versionRange="[1.2.0,)"
 ordering="AFTER"

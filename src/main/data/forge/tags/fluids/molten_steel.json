@@ -12,6 +12,10 @@
     {
         "id":  "createbigcannons:flowing_molten_steel",
         "required": false
+    },
+    {
+      "id":  "molten_metals:molten_steel",
+      "required": false
     }
   ]
 }

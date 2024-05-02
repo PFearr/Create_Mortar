@@ -1,0 +1,32 @@
+{
+    "conditions": [
+      {
+        "type":"forge:mod_loaded",
+        "modid": "molten_metals"
+      },
+      {
+          "type":"forge:mod_loaded",
+          "modid": "tfmg"
+      }
+    ],
+    "type": "tfmg:casting",
+    "ingredients": [
+      {
+        "fluidTag": "forge:molten_zinc",
+        "amount": 1
+      }
+    ],
+    "processingTime": 300,
+    "results": [
+      {
+        "count": 1,
+        "item": "create:zinc_ingot"
+      }
+    ,
+      {
+        "count": 1,
+        "item": "create:zinc_block"
+      }
+  
+    ]
+  }

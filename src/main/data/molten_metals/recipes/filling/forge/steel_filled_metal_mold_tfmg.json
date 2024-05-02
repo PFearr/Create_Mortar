@@ -1,0 +1,27 @@
+{
+  "conditions": [
+    {
+      "modid": "tfmg",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "molten_metals:ingot_mold"
+    },
+    {
+      "fluid": "molten_metals:molten_steel",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "molten_metals:molten_steel_ingot_mold"
+    }
+  ]
+}

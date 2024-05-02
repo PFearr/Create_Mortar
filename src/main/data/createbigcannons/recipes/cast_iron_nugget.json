@@ -1,4 +1,10 @@
 {
+  "conditions": [
+    {
+      "modid": "createbigcannons",
+      "type": "forge:mod_loaded"
+    }
+  ],
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [

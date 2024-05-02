@@ -1,9 +1,14 @@
 {
-  "conditions": [{
-        "type": "forge:mod_loaded",
-          "modid": "create_dd"
-        }
-      ],
+  "conditions": [
+    {
+      "modid": "create_dd",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid": "createbigcannons",
+      "type": "forge:mod_loaded"
+    }
+  ],
         "type": "create:compacting",
         "ingredients": [
           {

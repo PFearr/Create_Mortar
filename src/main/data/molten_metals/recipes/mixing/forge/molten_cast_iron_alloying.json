@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "modid": "createbigcannons",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
+    }
+  ],
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "molten_metals:molten_iron",
+        "amount": 100
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:coal"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "createbigcannons:molten_cast_iron",
+        "amount": 100
+      }
+    ]
+  }

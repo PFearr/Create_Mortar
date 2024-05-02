@@ -1,9 +1,19 @@
 {
+  "conditions": [
+    {
+      "type":"forge:mod_loaded",
+      "modid":"tfmg"
+    }
+  ],
   "type": "tfmg:casting",
   "ingredients": [
     {
-      "fluidTag": "forge:molten_steel",
-      "amount": 1
+      "type":"forge:mod_loaded",
+      "modid": "molten_metals"
+    },
+    {
+        "type":"forge:mod_loaded",
+        "modid": "tfmg"
     }
   ],
   "processingTime": 300,

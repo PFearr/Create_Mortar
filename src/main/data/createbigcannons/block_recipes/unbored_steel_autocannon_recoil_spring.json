@@ -1,4 +1,14 @@
 {
+  "conditions": [
+    {
+      "modid": "tfmg",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid": "createbigcannons",
+      "type": "forge:mod_loaded"
+    }
+  ],
   "type": "createbigcannons:cannon_casting",
   "cast_shape": "createbigcannons:autocannon_recoil_spring",
   "fluid": {

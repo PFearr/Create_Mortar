@@ -1,8 +1,14 @@
 {
-  "conditions": [{
-    "type":"forge:mod_loaded",
-    "modid": "createbigcannons"
-}],
+  "conditions": [
+    {
+      "type":"forge:mod_loaded",
+      "modid":"createbigcannons"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"tfmg"
+    }
+  ],
   "type": "tfmg:casting",
   "ingredients": [
     {

@@ -1,5 +1,11 @@
 
 {
+  "conditions": [
+    {
+      "modid": "tfmg",
+      "type": "forge:mod_loaded"
+    }
+  ],
   "type": "create:mixing",
   "ingredients": [
     {

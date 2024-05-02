@@ -1,0 +1,37 @@
+{
+    "conditions": [
+    {
+      "type":"forge:mod_loaded",
+      "modid": "molten_metals"
+    },
+    {
+        "type":"forge:mod_loaded",
+        "modid": "tfmg"
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid": "create_dd"
+    }
+
+  ],
+    "type": "tfmg:casting",
+    "ingredients": [
+      {
+        "fluidTag": "forge:molten_tin",
+        "amount": 1
+      }
+    ],
+    "processingTime": 300,
+    "results": [
+      {
+        "count": 1,
+        "item": "create_dd:tin_ingot"
+      }
+    ,
+      {
+        "count": 1,
+        "item": "create_dd:tin_block"
+      }
+  
+    ]
+  }

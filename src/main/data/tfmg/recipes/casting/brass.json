@@ -1,0 +1,32 @@
+{
+    "conditions": [
+      {
+      "modid": "tfmg",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
+    }
+  ],
+    "type": "tfmg:casting",
+    "ingredients": [
+      {
+        "fluidTag": "forge:molten_brass",
+        "amount": 1
+      }
+    ],
+    "processingTime": 300,
+    "results": [
+      {
+        "count": 1,
+        "item": "create:brass_ingot"
+      }
+    ,
+      {
+        "count": 1,
+        "item": "create:brass_block"
+      }
+  
+    ]
+  }

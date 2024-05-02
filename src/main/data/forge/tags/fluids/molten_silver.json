@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      {
+        "id":  "molten_metals:molten_silver",
+        "required": false
+      }
+    ]
+  }

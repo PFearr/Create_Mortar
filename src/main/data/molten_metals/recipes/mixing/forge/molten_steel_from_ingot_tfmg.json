@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "modid": "tfmg",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfmg:steel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "molten_metals:molten_steel",
+      "amount": 100
+    }
+  ],
+  "heatRequirement": "heated"
+}
