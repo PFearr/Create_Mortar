@@ -1,10 +1,11 @@
 {
-    "type":"createaddition:liquid_burning",
-    "conditions":[
-        {"type":"forge:mod_loaded",
-         "modid":"tfmg"
-        }
+    "conditions": [
+		{
+		  "type": "forge:mod_loaded",
+		  "modid": "tfmg"
+		}
     ],
+    "type":"createaddition:liquid_burning", 
     "input": {
           "fluidTag": "forge:heavy_oil",
 
