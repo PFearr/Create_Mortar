@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "forge:ingot/gold",
+      "required": false
+    },
+    {
+      "id": "forge:dusts/gold",
+      "required": false
+    }
+  ]
+}

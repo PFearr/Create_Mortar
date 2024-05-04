@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+      {
+        "id":  "mekanism:raw_ingot_lead",
+        "required": false
+      }  
+    ]
+  }

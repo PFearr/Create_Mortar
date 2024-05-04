@@ -5,28 +5,25 @@
       "type": "forge:mod_loaded"
     },
     {
-      "type": "forge:not",
-      "value": {
-        "modid": "fabric-api",
-        "type": "forge:mod_loaded"
-      }
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
     }
   ],
   "type": "create:mixing",
   "ingredients": [
     {
       "fluid": "molten_metals:molten_silver",
-      "amount": 500
+      "amount": 555.55
     },
     {
       "fluid": "molten_metals:molten_gold",
-      "amount": 300
+      "amount": 333.33
     }
   ],
   "results": [
     {
       "fluid": "molten_metals:molten_electrum",
-      "amount": 111.11
+      "amount": 555.55
     }
   ]
 }

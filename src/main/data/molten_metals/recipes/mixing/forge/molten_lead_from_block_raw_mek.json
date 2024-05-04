@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "modid": "mekanism",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "oreganized",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "molten_metals:meltable_raw_lead_blocks"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "mekanism:dirty_lead",
+      "amount": 1000
+    },
+    {
+      "item": "molten_metals:slag_block"
+    }
+  ],
+  "heatRequirement": "heated"
+}

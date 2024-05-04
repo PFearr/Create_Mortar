@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "modid": "create_dd",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "mekanism",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_dd:bronze_ingot"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "molten_metals:molten_bronze",
+      "amount": 111.11
+    }
+  ],
+  "heatRequirement": "heated"
+}

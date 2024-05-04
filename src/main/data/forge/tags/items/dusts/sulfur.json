@@ -3,6 +3,10 @@
     {
       "id":  "tfmg:sulfur_dust",
       "required": false
-    }
+    },
+    {
+      "id":  "mekanism:dust_sulfur",
+      "required": false
+    } 
   ]
 }

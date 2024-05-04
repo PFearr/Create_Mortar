@@ -5,18 +5,19 @@
       "type": "forge:mod_loaded"
     },
     {
-      "type": "forge:not",
-      "value": {
-        "modid": "fabric-api",
-        "type": "forge:mod_loaded"
-      }
+      "modid":"mekanism",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
     }
   ],
   "type": "create:mixing",
   "ingredients": [
     {
       "fluid": "molten_metals:molten_copper",
-      "amount": 300
+      "amount": 333.33
     },
     {
       "fluid": "molten_metals:molten_zinc",
@@ -30,7 +31,7 @@
   "results": [
     {
       "fluid": "molten_metals:molten_bronze",
-      "amount": 200
+      "amount": 555.55
     }
   ]
 }

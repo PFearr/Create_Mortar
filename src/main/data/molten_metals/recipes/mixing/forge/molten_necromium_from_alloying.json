@@ -5,18 +5,15 @@
       "type": "forge:mod_loaded"
     },
     {
-      "type": "forge:not",
-      "value": {
-        "modid": "fabric-api",
-        "type": "forge:mod_loaded"
-      }
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
     }
   ],
   "type": "create:mixing",
   "ingredients": [
     {
       "fluid": "molten_metals:molten_silver",
-      "amount": 400
+      "amount": 111.11
     },
     {
       "item": "minecraft:netherite_scrap"

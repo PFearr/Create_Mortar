@@ -4,6 +4,10 @@
       {
         "id":  "molten_metals:molten_tin",
         "required": false
+      },
+      {
+        "id":  "makanism:tin",
+        "required": false
       }
     ]
   }
