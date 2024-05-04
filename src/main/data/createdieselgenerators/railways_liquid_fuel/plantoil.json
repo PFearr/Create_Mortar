@@ -1,7 +1,6 @@
 {
   "fluids": [
-	  "#forge:plant_oil"
-  
+    "#forge:plantoil"
   ],
   "fuel_ticks": 240
 }
