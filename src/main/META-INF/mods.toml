@@ -4,7 +4,7 @@ license="None"
 
 [[mods]]
 modId="create_mortar"
-version="0.2.0"
+version="0.2.2"
 displayname="Create: Mortar"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"
@@ -64,5 +64,19 @@ side="BOTH"
 modId="createaddition"
 mandatory= false
 versionRange="[1.2.0,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.create_mortar]]
+modId="molten_metals"
+mandatory= false
+versionRange="[0.1.0,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.create_mortar]]
+modId="createdieselgenerators"
+mandatory= false
+versionRange="[1.20.1-1.1,)"
 ordering="AFTER"
 side="BOTH"
