@@ -4,6 +4,10 @@
     {
       "id":  "tfmg:crude_oil_fluid",
       "required": false
+    },
+    {
+      "id":  "ad_astra:oil",
+      "required": false
     }
   ]
 }

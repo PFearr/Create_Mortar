@@ -1,0 +1,40 @@
+{
+  "conditions": [
+    {
+      "modid": "createdieselgenerators",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"create_dd",
+      "type": "forge:mod_loaded"
+    },
+    {
+        "modid": "createdeco",
+        "type": "forge:mod_loaded"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SWA",
+    "WPW",
+    " WS"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "S": {
+      "tag": "forge:sheets/industrial_iron"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "P": {
+      "item": "create:fluid_pipe"
+    }
+  },
+  "result": {
+    "item": "createdieselgenerators:engine_silencer",
+    "count": 2
+  }
+}

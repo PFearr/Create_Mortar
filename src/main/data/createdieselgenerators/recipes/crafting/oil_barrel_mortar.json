@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "modid": "createdieselgenerators",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"create_dd",
+      "type": "forge:mod_loaded"
+    },
+    {
+        "modid": "createdeco",
+        "type": "forge:mod_loaded"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS"
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:barrels/wooden"
+    },
+    "S": {
+      "tag": "forge:sheets/industrial_iron"
+    }
+  },
+  "result": {
+    "item": "createdieselgenerators:oil_barrel",
+    "count": 2
+  }
+}

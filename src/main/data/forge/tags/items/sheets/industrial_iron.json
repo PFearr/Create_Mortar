@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [  
+      {
+      "id":  "createdeco:industrial_iron_sheet",
+      "required": false
+      },
+      {
+      "id":  "create_dd:industrial_iron_sheet",
+      "required": false
+      }     
+    ]
+  }
