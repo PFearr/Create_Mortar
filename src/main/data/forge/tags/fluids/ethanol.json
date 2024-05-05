@@ -2,11 +2,11 @@
     "replace": false,
     "values": [
       {
-        "id":  "create:molten_bronze",
+        "id":  "createdieselgenerators:ethanol",
         "required": false
       },
       {
-        "id":  "createbigcannons:molten_bronze",
+        "id":  "createdieselgenerators:flowing_ethanol",
         "required": false
       }
     ]

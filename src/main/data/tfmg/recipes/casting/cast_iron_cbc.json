@@ -1,0 +1,32 @@
+{
+    "conditions": [
+      {
+      "type":"forge:mod_loaded",
+      "modid": "createbigcannons"
+    },
+    {
+        "type":"forge:mod_loaded",
+        "modid": "tfmg"
+    }
+  ],
+    "type": "tfmg:casting",
+    "ingredients": [
+      {
+        "fluidTag": "forge:molten_cast_iron",
+        "amount": 1
+      }
+    ],
+    "processingTime": 300,
+    "results": [
+      {
+        "count": 1,
+        "item": "tfmg:cast_iron_ingot"
+      }
+    ,
+      {
+        "count": 1,
+        "item": "tfmg:cast_iron_block"
+      }
+  
+    ]
+  }

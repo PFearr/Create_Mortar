@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-      {
-        "id":  "molten_metals:molten_tin",
+    {
+        "id":  "tfmg:ethylene",
         "required": false
-      }
-    ]
+    }
+   ]
   }

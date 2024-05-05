@@ -15,7 +15,7 @@
       "item": "molten_metals:ingot_mold"
     },
     {
-      "fluid": "molten_metals:molten_steel",
+      "fluidTag": "forge:molten_steel",
       "amount": 111.11
     }
   ],

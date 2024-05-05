@@ -5,16 +5,22 @@
       "modid":"tfmg"
     },
     {
+      "type": "forge:not",
+      "value": {
+        "modid": "mekanism",
+        "type": "forge:mod_loaded"
+      }
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createbigcannons",
+        "type": "forge:mod_loaded"
+      }
+    },
+    {
       "type":"forge:mod_loaded",
       "modid": "molten_metals"
-    },
-    {
-      "type":"forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type":"forge:mod_loaded",
-      "modid": "createbigcannons"
     }
   ],
   "type": "tfmg:casting",

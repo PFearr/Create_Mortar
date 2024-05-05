@@ -4,7 +4,7 @@ license="None"
 
 [[mods]]
 modId="create_mortar"
-version="0.2.2"
+version="0.2.3"
 displayname="Create: Mortar"
 description="Recipe changes and create add on compat"
 dependencies="AFTER:*"

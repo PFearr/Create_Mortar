@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        {
+              "id":  "createaddition:plant_oil",
+              "required": false
+        },
+        {
+            "id":  "createdieselgenerators:plant_oil",
+            "required": false
+        },
+        {
+            "id":  "createdieselgenerators:flowing_plant_oil",
+            "required": false
+        }
+   ]
+  }
+  

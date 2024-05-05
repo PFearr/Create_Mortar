@@ -1,8 +1,12 @@
 {
-    "conditions": [
+  "conditions": [
 		{
 		  "type": "forge:mod_loaded",
 		  "modid": "tfmg"
+		},
+    {
+		  "type": "forge:mod_loaded",
+		  "modid": "create_addition"
 		}
     ],
     "type":"createaddition:liquid_burning", 

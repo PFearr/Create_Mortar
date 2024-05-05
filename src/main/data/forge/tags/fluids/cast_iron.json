@@ -2,8 +2,9 @@
     "replace": false,
     "values": [
       {
-        "id":  "molten_metals:molten_tin",
+        "id":  "createbigcannons_molten_cast_iron",
         "required": false
       }
-    ]
-  }
+      
+  ]
+}

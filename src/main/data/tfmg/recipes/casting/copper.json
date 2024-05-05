@@ -1,14 +1,18 @@
 {
-    "conditions": [
-      {
+  "conditions": [
+    {
+      "modid": "mekanism",
+      "type": "forge:mod_loaded"
+    },
+    {
       "type":"forge:mod_loaded",
-      "modid": "molten_metals"
-      },
-      {
-        "type":"forge:mod_loaded",
-        "modid": "tfmg"
+      "modid":"tfmg"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
     }
-    ],
+],
     "type": "tfmg:casting",
     "ingredients": [
       {

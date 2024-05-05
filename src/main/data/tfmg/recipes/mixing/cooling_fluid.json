@@ -1,0 +1,27 @@
+
+{
+  "conditions": [
+    {
+      "modid": "tfmg",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluidTag": "forge:ethylene",
+      "amount": 250
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tfmg:cooling_fluid",
+      "amount": 500
+
+    }
+  ]
+}

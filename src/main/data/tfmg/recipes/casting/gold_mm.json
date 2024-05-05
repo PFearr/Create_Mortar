@@ -1,8 +1,11 @@
 {
   "conditions": [
     {
-      "modid": "mekanism",
-      "type": "forge:mod_loaded"
+      "type": "forge:not",
+      "value": {
+        "modid": "mekanism",
+        "type": "forge:mod_loaded"
+      }
     },
     {
       "type":"forge:mod_loaded",
@@ -16,7 +19,7 @@
     "type": "tfmg:casting",
     "ingredients": [
       {
-        "fluidTag": "forge:molten_iron",
+        "fluidTag": "forge:molten_gold",
         "amount": 1
       }
     ],
@@ -24,12 +27,12 @@
     "results": [
       {
         "count": 1,
-        "item": "minecraft:iron_ingot"
+        "item": "minecraft:gold_ingot"
       }
     ,
       {
         "count": 1,
-        "item": "minecraft:iron_block"
+        "item": "minecraft:gold_block"
       }
   
     ]
