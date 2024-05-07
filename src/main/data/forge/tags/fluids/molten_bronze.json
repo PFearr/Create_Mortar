@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
       {
-        "id":  "create:molten_bronze",
+        "id":  "molten_metals:molten_bronze",
         "required": false
       },
       {

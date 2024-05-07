@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+      {
+        "id":  "createaddition:electrum_nugget",
+        "required": false
+      },
+      {
+        "id":  "oreganized:electrum_nugget",
+        "required": false
+      } 
+    ]
+  }

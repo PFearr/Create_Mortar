@@ -7,13 +7,6 @@
     {
       "modid":"molten_metals",
       "type": "forge:mod_loaded"
-    },
-    {
-      "type": "forge:not",
-      "value": {
-        "modid": "mekanism",
-        "type": "forge:mod_loaded"
-      }
     }
   ],
   "type": "create:filling",

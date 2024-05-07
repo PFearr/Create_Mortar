@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "modid": "oreganized",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "createaddition",
+        "type": "forge:mod_loaded"
+      }
+    }
+  ],
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "molten_metals:molten_electrum_ceramic_ingot_mold"
+    }
+  ],
+  "results": [
+    {
+      "item": "oreganized:electrum_ingot"
+    },
+    {
+      "chance": 0.80,
+      "item": "molten_metals:ceramic_ingot_mold"
+    }
+  ]
+}

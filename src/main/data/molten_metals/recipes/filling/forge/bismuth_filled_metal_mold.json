@@ -1,12 +1,15 @@
 {
   "conditions": [
     {
-      "modid": "etcetera",
+      "modid": "molten_metals",
       "type": "forge:mod_loaded"
     },
     {
-      "modid":"molten_metals",
-      "type": "forge:mod_loaded"
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/bismuth"
+      }
     }
   ],
   "type": "create:filling",

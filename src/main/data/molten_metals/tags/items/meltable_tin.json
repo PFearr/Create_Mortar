@@ -2,11 +2,7 @@
   "replace": false,
   "values": [
     {
-      "id": "forge:ingots:tin",
-      "required": false
-    },
-    {
-      "id": "forge:sheets/tin",
+      "id": "forge:ingots/tin",
       "required": false
     }
   ]

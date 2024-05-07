@@ -1,12 +1,15 @@
 {
   "conditions": [
     {
-      "modid": "caverns_and_chasms",
+      "modid": "molten_metals",
       "type": "forge:mod_loaded"
     },
     {
-      "modid":"molten_metals",
-      "type": "forge:mod_loaded"
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/silver"
+      }
     }
   ],
   "type": "create:filling",

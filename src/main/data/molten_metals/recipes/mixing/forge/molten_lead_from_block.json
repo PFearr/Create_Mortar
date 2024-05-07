@@ -7,10 +7,6 @@
     {
       "modid":"molten_metals",
       "type": "forge:mod_loaded"
-    },
-    {
-      "modid":"molten_metals",
-      "type": "forge:mod_loaded"
     }
   ],
   "type": "create:mixing",

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "A": {
+            "tag": "mekanism:alloys/atomic"
+        },
+        "H": {
+            "tag": "forge:sheets/plastic"
+        },
+        "P": {
+            "item": "minecraft:elytra"
+        }
+    },
+    "pattern": [
+        "AHA",
+        "HPH",
+        "H H"
+    ],
+    "result": {
+        "item": "mekanism:hdpe_elytra"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "conditions": [
+        {
+        "type":"forge:mod_loaded",
+        "modid": "mekanism"
+      }
+    ],
+    "type": "mekanism:washing",
+    "fluidInput": {
+        "amount": 5,
+        "fluid": "minecraft:water"
+    },
+    "output": {
+        "amount": 1,
+        "slurry": "mekanism:clean_lead"
+    },
+    "slurryInput": {
+        "amount": 1,
+        "slurry": "mekanism:dirty_lead"
+    }
+}

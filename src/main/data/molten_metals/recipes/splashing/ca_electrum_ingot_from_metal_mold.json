@@ -7,6 +7,13 @@
     {
       "modid":"molten_metals",
       "type": "forge:mod_loaded"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "oreganized",
+        "type": "forge:mod_loaded"
+      }
     }
   ],
   "type": "create:splashing",

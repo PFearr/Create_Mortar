@@ -1,22 +1,21 @@
 {
   "conditions": [
     {
-      "modid": "create_dd",
+      "modid": "molten_metals",
       "type": "forge:mod_loaded"
     },
     {
-      "modid":"mekanism",
-      "type": "forge:mod_loaded"
-    },
-    {
-      "modid":"molten_metals",
-      "type": "forge:mod_loaded"
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/bronze"
+      }
     }
   ],
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "forge:ingots/bronze"
+      "tag": "forge:ingots/bronze"
     }
   ],
   "results": [

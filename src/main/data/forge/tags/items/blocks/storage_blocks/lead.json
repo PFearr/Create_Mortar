@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
       {
-        "id":  "mekanism:raw_block_lead",
+        "id":  "mekanism:block_lead",
         "required": false
       }  
     ]

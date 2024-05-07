@@ -18,7 +18,7 @@
   "results": [
     {
       "fluid": "molten_metals:molten_steel",
-      "amount": 111.11
+      "amount": 1000
     }
   ],
   "heatRequirement": "heated"

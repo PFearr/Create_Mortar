@@ -1,10 +1,8 @@
 {
-  "fabric:load_conditions": [
+  "conditions": [
     {
-      "condition": "fabric:item_tags_populated",
-      "values": [
-        "createbigcannons:block_cast_iron"
-      ]
+        "modid": "createbigcannons",
+        "type": "forge:mod_loaded"
     }
   ],
   "type": "createbigcannons:melting",

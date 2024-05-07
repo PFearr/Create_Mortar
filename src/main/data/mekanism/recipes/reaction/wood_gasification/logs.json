@@ -1,0 +1,31 @@
+{
+    "conditions": [
+        {
+        "type":"forge:mod_loaded",
+        "modid": "mekanism"
+      }
+    ],
+    "type": "mekanism:reaction",
+    "duration": 600,
+    "fluidInput": {
+        "amount": 400,
+        "fluid": "minecraft:water"
+    },
+    "gasInput": {
+        "amount": 400,
+        "gas": "mekanism:oxygen"
+    },
+    "gasOutput": {
+        "amount": 400,
+        "gas": "mekanism:hydrogen"
+    },
+    "itemInput": {
+        "amount": 4,
+        "ingredient": {
+            "tag": "minecraft:logs"
+        }
+    },
+    "itemOutput": {
+        "item": "mekanism:dust_charcoal"
+    }
+}

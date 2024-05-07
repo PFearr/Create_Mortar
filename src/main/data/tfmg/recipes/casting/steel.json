@@ -1,20 +1,15 @@
 {
   "conditions": [
     {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/steel"
+      }
+    },
+    {
       "type":"forge:mod_loaded",
       "modid":"tfmg"
-    },
-    {
-      "type":"forge:mod_loaded",
-      "modid": "molten_metals"
-    },
-    {
-      "type":"forge:mod_loaded",
-      "modid": "mekanism"
-    },
-    {
-      "type":"forge:mod_loaded",
-      "modid": "createbigcannons"
     }
   ],
   "type": "tfmg:casting",

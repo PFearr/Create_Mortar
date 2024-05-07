@@ -1,10 +1,6 @@
 {
   "conditions": [
     {
-      "modid": "mekanism",
-      "type": "forge:mod_loaded"
-    },
-    {
       "type":"forge:mod_loaded",
       "modid":"tfmg"
     },

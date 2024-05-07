@@ -1,0 +1,45 @@
+{
+
+  "conditions": [
+    {
+      "type":"forge:mod_loaded",
+      "modid":"mekanism"
+    },
+    {
+      "type": "forge:not",
+      "value": {
+        "modid": "create_dd",
+        "type": "forge:mod_loaded"
+      }
+    },
+    {
+      "type":"forge:mod_loaded",
+      "modid":"tfmg"
+    },
+    {
+      "modid":"molten_metals",
+      "type": "forge:mod_loaded"
+    }
+],
+
+  "type": "tfmg:casting",
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_bronze",
+      "amount": 1
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "count": 1,
+      "item": "mekanism:ingot_bronze"
+    }
+  ,
+    {
+      "count": 1,
+      "item": "mekanism:block_bronze"
+    }
+
+  ]
+}

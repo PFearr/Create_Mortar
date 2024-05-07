@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
       {
-        "id":  "mekanism:nugget_tin",
+        "id":  "mekanism:dust_tin",
         "required": false
       }  
     ]

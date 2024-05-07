@@ -10,7 +10,7 @@
   "ingredients": [
 
     {
-      "fluidTag": "tfmg:ethylene",
+      "fluidTag": "forge:ethylene",
       "amount": 500
     }
   ],

@@ -1,12 +1,15 @@
 {
   "conditions": [
     {
-      "type":"forge:mod_loaded",
-      "modid":"createbigcannons"
+      "modid": "molten_metals",
+      "type": "forge:mod_loaded"
     },
     {
-      "type":"forge:mod_loaded",
-      "modid":"tfmg"
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/cast_iron"
+      }
     }
   ],
   "type": "tfmg:casting",

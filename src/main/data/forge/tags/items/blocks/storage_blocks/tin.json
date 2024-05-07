@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
       {
-        "id":  "mekanism:raw_block_tin",
+        "id":  "mekanism:block_tin",
         "required": false
       }  
     ]

@@ -2,7 +2,7 @@
     "replace": false,
     "values": [
       {
-        "id":  "mekanism:raw_ingot_lead",
+        "id":  "mekanism:nugget_lead",
         "required": false
       }  
     ]

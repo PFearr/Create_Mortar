@@ -5,12 +5,17 @@
       "type": "forge:mod_loaded"
     },
     {
-      "modid":"create_dd",
-      "type": "forge:mod_loaded"
-    },
-    {
-        "modid": "createdeco",
-        "type": "forge:mod_loaded"
+      "type": "forge:or",
+      "values": [
+        {
+          "modid": "create_dd",
+          "type": "forge:mod_loaded"
+        },
+        {
+          "modid": "createdeco",
+          "type": "forge:mod_loaded"
+        }
+      ]
     }
   ],
   "type": "minecraft:crafting_shaped",

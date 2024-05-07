@@ -1,0 +1,25 @@
+{
+    "conditions": [
+        {
+        "type":"forge:mod_loaded",
+        "modid": "mekanism"
+      }
+    ],
+    "type": "mekanism:rotary",
+    "fluidInput": {
+        "amount": 1,
+        "fluid": "minecraft:water"
+    },
+    "fluidOutput": {
+        "amount": 1,
+        "fluid": "minecraft:water"
+    },
+    "gasInput": {
+        "amount": 1,
+        "gas": "mekanism:water_vapor"
+    },
+    "gasOutput": {
+        "amount": 1,
+        "gas": "mekanism:water_vapor"
+    }
+}

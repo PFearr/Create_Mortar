@@ -1,0 +1,74 @@
+{
+    "type": "forge:conditional",
+    "recipes": [
+        {
+            "conditions": [
+                {
+                    "modid": "molten_metals",
+                    "type": "forge:mod_loaded"
+                },
+                {
+                    "type": "forge:or",
+                    "values": [
+                        {
+                            "modid": "create_dd",
+                            "type": "forge:mod_loaded"
+                        },
+                        {
+                            "modid": "mekanism",
+                            "type": "forge:mod_loaded"
+                        }
+                    ]
+                }
+            ],
+            "recipe": {
+                "type": "create:filling",
+                "ingredients": [
+                    {
+                        "item": "molten_metals:ingot_mold"
+                    },
+                    {
+                        "fluid": "molten_metals:molten_bronze",
+                        "amount": 111.11
+                    }
+                ],
+                "results": [
+                    {
+                        "item": "molten_metals:molten_bronze_ingot_mold"
+                    }
+                ],
+                "conditions": [
+                    {
+                        "modid": "molten_metals",
+                        "type": "forge:mod_loaded"
+                    },
+                    {
+                        "type": "forge:item_exists",
+                        "values": [
+                            {
+                                "tag": "forge:ingots/bronze"         
+                            }
+                        ]
+                    }
+                ],
+                "recipe": {
+                    "type": "create:filling",
+                    "ingredients": [
+                        {
+                            "item": "molten_metals:ingot_mold"
+                        },
+                        {
+                            "fluid": "molten_metals:molten_bronze",
+                            "amount": 111.11
+                        }
+                    ],
+                    "results": [
+                        {
+                            "item": "molten_metals:molten_bronze_ingot_mold"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

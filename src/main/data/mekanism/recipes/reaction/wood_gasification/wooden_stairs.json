@@ -1,0 +1,32 @@
+{
+    "conditions": [
+    {
+    "type":"forge:mod_loaded",
+    "modid": "mekanism"
+  }
+],
+    "type": "mekanism:reaction",
+    "duration": 22,
+    "fluidInput": {
+        "amount": 15,
+        "fluid": "minecraft:water"
+    },
+    "gasInput": {
+        "amount": 15,
+        "gas": "mekanism:oxygen"
+    },
+    "gasOutput": {
+        "amount": 15,
+        "gas": "mekanism:hydrogen"
+    },
+    "itemInput": {
+        "ingredient": [
+            {
+                "tag": "minecraft:wooden_stairs"
+            },
+            {
+                "item": "minecraft:bamboo_mosaic_stairs"
+            }
+        ]
+    }
+}

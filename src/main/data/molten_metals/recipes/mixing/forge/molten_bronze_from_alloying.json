@@ -1,16 +1,15 @@
 {
   "conditions": [
     {
-      "modid": "create_dd",
+      "modid": "molten_metals",
       "type": "forge:mod_loaded"
     },
     {
-      "modid":"mekanism",
-      "type": "forge:mod_loaded"
-    },
-    {
-      "modid":"molten_metals",
-      "type": "forge:mod_loaded"
+      "type": "forge:not",
+      "value": {
+        "type": "forge:tag_empty",
+        "tag": "forge:ingots/tin"
+      }
     }
   ],
   "type": "create:mixing",
@@ -31,7 +30,7 @@
   "results": [
     {
       "fluid": "molten_metals:molten_bronze",
-      "amount": 333.33
+      "amount": 555.55
     }
   ]
 }

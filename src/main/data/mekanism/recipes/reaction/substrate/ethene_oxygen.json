@@ -1,0 +1,27 @@
+{
+    "conditions": [
+        {
+        "type":"forge:mod_loaded",
+        "modid": "mekanism"
+      }
+    ],
+    "type": "mekanism:reaction",
+    "duration": 60,
+    "energyRequired": 1000,
+    "fluidInput": {
+        "amount": 50,
+        "tag": "forge:ethene"
+    },
+    "gasInput": {
+        "amount": 10,
+        "gas": "mekanism:oxygen"
+    },
+    "itemInput": {
+        "ingredient": {
+            "item": "mekanism:substrate"
+        }
+    },
+    "itemOutput": {
+        "item": "mekanism:hdpe_pellet"
+    }
+}

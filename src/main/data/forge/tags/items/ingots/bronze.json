@@ -4,6 +4,10 @@
     {
       "id":  "create_dd:bronze_ingot",
       "required": false
-    } 
+    },
+    {
+      "id":  "mekanism:ingot_bronze",
+      "required": false
+    }
   ]
 }
